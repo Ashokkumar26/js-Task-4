@@ -1,0 +1,8 @@
+body{
+	background: url(../image/nature.jpg);
+	background-size: 100%;
+}
+.card{
+	background-color: hsla(120,100%,50%,0.3);
+	width: 600px;
+}
